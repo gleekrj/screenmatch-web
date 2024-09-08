@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="Atualização para versão final do projeto" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Record" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2j4dSPWYyVblPKzk5Q6mYMcOtd0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ScreenmatchApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "<unknown>",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Familia Matos/Google Drive/Cursos Alura/Programação/Spring/frases_filme",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.com.alura.screenmatch.DTO" />
+      <recent name="br.com.alura.screenmatch.service.traducao" />
+      <recent name="br.com.alura.screenmatch.model" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="br.com.alura.screenmatch" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ScreenmatchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.alura.screenmatch.ScreenmatchApplication" />
+      <module name="screenmatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.alura.screenmatch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ScreenmatchApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a0ee667-2cf4-407b-b0bf-fa1b85212e93" name="Changes" comment="" />
+      <created>1720650281146</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720650281146</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Modelando a classe série">
+      <option name="closed" value="true" />
+      <created>1723154531446</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723154531446</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Retirada da chave do Chat GPT">
+      <option name="closed" value="true" />
+      <created>1723154698573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723154698573</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Acerto de persistência e variáveis de ambiente">
+      <option name="closed" value="true" />
+      <created>1723506771856</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723506771856</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Acerto do ambiente">
+      <option name="closed" value="true" />
+      <created>1723508435566</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723508435566</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries.">
+      <option name="closed" value="true" />
+      <created>1724537725927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724537725927</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inclusão de novas buscas na aplicação.">
+      <option name="closed" value="true" />
+      <created>1724600742341</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724600742341</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Commit inicial com os dados do projeto legado.">
+      <option name="closed" value="true" />
+      <created>1725400235992</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1725400235992</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Atualização para versão final do projeto">
+      <option name="closed" value="true" />
+      <created>1725827025579</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1725827025579</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Atualização para versão final do projeto">
+      <option name="closed" value="true" />
+      <created>1725827037873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1725827037873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualização para versão final do projeto">
+      <option name="closed" value="true" />
+      <created>1725827209769</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725827209769</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Modelando a classe série" />
+    <MESSAGE value="Retirada da chave do Chat GPT" />
+    <MESSAGE value="Acerto de persistência e variáveis de ambiente" />
+    <MESSAGE value="Revert &quot;Modelando a classe série&quot;&#10;&#10;This reverts commit 3ff355c1" />
+    <MESSAGE value="Acerto do ambiente" />
+    <MESSAGE value="Começo do uso de banco de dados para inclusão de séries e buscas posteriores. Utilização de derived queries." />
+    <MESSAGE value="Inclusão de novas buscas na aplicação." />
+    <MESSAGE value="Commit inicial com os dados do projeto legado." />
+    <MESSAGE value="Atualização para versão final do projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualização para versão final do projeto" />
+  </component>
+</project>
